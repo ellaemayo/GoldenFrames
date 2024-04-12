@@ -6,10 +6,6 @@ footer {
 	text-align: center;
 	padding: 1000px;
 }
-.single-box p {
-	color: #fff;
-	line-height: 1.9;
-}
 .single-box h3 {
 	font-size: 16px;
 	font-weight: 700;
@@ -52,4 +48,26 @@ footer {
 	.single-box {
 		margin-bottom: 50px;
 	}
+}
+p {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: larger;
+	color:goldenrod;
+}
+.poop {
+
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+.shoppingbutton{
+	color: black !important;
+}
+
+.index.html{
+	background-color: grey !important;
+}
+body {
+	background-color: gray;
 }
