@@ -71,3 +71,9 @@ display: block;
 body {
 	background-color: gray;
 }
+.cart {
+	width: 300px;
+	border: 15px solid green;
+	padding: 50px;
+	margin: 20px;
+}
