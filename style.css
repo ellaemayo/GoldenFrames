@@ -1,5 +1,5 @@
 footer {
-	background: black;
+	background: #F6DD86;
 	padding: 86px 0;
 }
 .single-content {
@@ -32,7 +32,7 @@ footer {
 	font-weight: 700;
 }
 #basic-addon2 {
-	background: #fe1e4f;
+	background: rgb(254, 202, 30);
 	color: #fff;
 }
 .socials i {
@@ -40,27 +40,21 @@ footer {
 	margin-right: 15px;
 }
 @media (max-width: 767px) {
-	.single-box {
+.single-box {
 		margin-bottom: 50px;
-	}
+}
 }
 @media (min-width: 768px) and (max-width: 991px) {
-	.single-box {
+.single-box {
 		margin-bottom: 50px;
-	}
+}
 }
 p {
 	font-family: Georgia, 'Times New Roman', Times, serif;
 	font-size: larger;
-	color:goldenrod;
+	color:grey;
 }
-.poop {
-
-display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 40%;
-}
+ 
 .shoppingbutton{
 	color: black !important;
 }
@@ -69,11 +63,69 @@ display: block;
 	background-color: grey !important;
 }
 body {
-	background-color: gray;
+	background-color: black;
 }
 .cart {
 	width: 300px;
-	border: 15px solid green;
+	border: 15px solid goldenrod;
 	padding: 50px;
 	margin: 20px;
 }
+h1{
+	text-align: center;
+	color:goldenrod;
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn-outline-success{
+	background-color: whitesmoke !important;
+	border-color: goldenrod !important;
+	
+}
+.navbar { 
+	background-color:goldenrod !important;
+ }
+ h5{
+	color:goldenrod
+ }
+ h3{
+	color:goldenrod
+ }
+ .square{
+    border:20px solid goldenrod;
+	width: 500px;
+	height:400px;
+	margin-left: 300px;
+	margin-right: auto;
+	margin-top: auto;
+ }
+ .poop{
+
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+ }
+ .navbar-wrapper {
+	position: absolute;
+	top: 0;
+	right: 0;
+	left: 0;
+	z-index: 20;
+  }
+  .navbar-wrapper > .container {
+	padding-right: 0;
+	padding-left: 0;
+  }
+  .navbar-wrapper .navbar {
+	padding-right: 15px;
+	padding-left: 15px;
+  }
+  .navbar-wrapper .navbar .container {
+	width: auto;
+  }
+  .wow {
+	text-align: center;
+	margin-left: 200px;
+	margin-right: auto;
+ }
+  
