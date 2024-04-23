@@ -1,5 +1,5 @@
 footer {
-	background: goldenrod;
+	background: rgb(255, 218, 125);
 	padding: 86px 0;
 }
 .single-content {
@@ -32,7 +32,7 @@ footer {
 	font-weight: 700;
 }
 #basic-addon2 {
-	background: rgb(254, 202, 30);
+	background: rgb(255, 235, 170);
 	color: #fff;
 }
 .socials i {
@@ -56,42 +56,42 @@ p {
 }
  
 .shoppingbutton{
-	color: black !important;
+	color: rgb(201, 0, 0) !important;
 }
 
 .index.html{
 	background-color: grey !important;
 }
 body {
-	background-color: black;
+	background-color: rgb(255, 245, 227);
 }
 .cart {
 	width: 300px;
-	border: 15px solid goldenrod;
+	border: 15px solid rgb(255, 232, 173);
 	padding: 50px;
 	margin: 20px;
 }
 h1{
 	text-align: center;
-	color:goldenrod;
-	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	color:rgb(238, 217, 162)217, 162);
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .btn-outline-success{
 	background-color: whitesmoke !important;
-	border-color: goldenrod !important;
+	border-color: rgb(229, 209, 158) !important;
 	
 }
 .navbar { 
-	background-color:goldenrod !important;
+	background-color:rgb(252, 220, 141) !important;
  }
  h5{
-	color:goldenrod
+	color:rgb(255, 219, 127)
  }
  h3{
-	color:goldenrod
+	color:rgb(253, 229, 166)
  }
  .square{
-    border:20px solid goldenrod;
+    border:20px solid rgb(255, 230, 168);
 	width: 500px;
 	height:400px;
 	margin-left: 300px;
@@ -128,4 +128,51 @@ h1{
 	margin-left: 200px;
 	margin-right: auto;
  }
+ #nav ul {
+    display: inline-block;
+    list-style-type: none;
+}
+main{
+	text-align: center;
+}
+.poop{
+    border:20px solid rgb(255, 230, 168);
+	width: 1500px;
+	height:800px;
+	
+ }
+
+
+ .btn-light{
+	color: rgb(241, 193, 121) !important;
+	background-color: rgb(250, 231, 171) !important;
+	outline-color: rgb(209, 179, 134) !important;
+ }
+ 
+
+ 
+
+ .navbar-brand {
+	letter-spacing: 3px;
+	color: #c28f42;
+  }
+  
+  .navbar-brand:hover {
+	  color: whitesmoke;
+  }
+  
+  .navbar-scroll .nav-link,
+  .navbar-scroll .fa-bars {
+	color: #7f4722;
+  }
+  
+  .navbar-scrolled .nav-link,
+  .navbar-scrolled .fa-bars {
+	color: #7f4722;
+  }
+  
+  .navbar-scrolled {
+	background-color: #ffede7;
+  }
+
   
