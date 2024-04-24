@@ -12,7 +12,7 @@ footer {
 	color: #fff;
 }
 .single-box .card-area i {
-	color: #ffffff;
+	color: rgb(255, 249, 216);
 	font-size: 20px;
 	margin-right: 10px;
 }
@@ -33,7 +33,7 @@ footer {
 }
 #basic-addon2 {
 	background: rgb(255, 235, 170);
-	color: #fff;
+	color: #ffffff;
 }
 .socials i {
 	font-size: 18px;
@@ -66,14 +66,15 @@ body {
 	background-color: rgb(255, 245, 227);
 }
 .cart {
-	width: 300px;
+	width: 1000px;
 	border: 15px solid rgb(255, 232, 173);
 	padding: 50px;
 	margin: 20px;
+	color: rgb(255, 232, 156);
 }
 h1{
 	text-align: center;
-	color:rgb(238, 217, 162)217, 162);
+	color:rgb(238, 217, 162);
 	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .btn-outline-success{
@@ -92,8 +93,8 @@ h1{
  }
  .square{
     border:20px solid rgb(255, 230, 168);
-	width: 500px;
-	height:400px;
+	width: 600px;
+	height:600px;
 	margin-left: 300px;
 	margin-right: auto;
 	margin-top: auto;
@@ -138,7 +139,7 @@ main{
 .poop{
     border:20px solid rgb(255, 230, 168);
 	width: 1500px;
-	height:800px;
+	height:900px;
 	
  }
 
@@ -175,4 +176,7 @@ main{
 	background-color: #ffede7;
   }
 
-  
+  .bigahhhead {
+	width: 300px;
+	height: 200px !
+  }
