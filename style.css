@@ -151,7 +151,9 @@ main{
  }
  
 
- 
+ .rounded-circle {
+	height: 500px;
+ }
 
  .navbar-brand {
 	letter-spacing: 3px;
@@ -176,7 +178,4 @@ main{
 	background-color: #ffede7;
   }
 
-  .bigahhhead {
-	width: 300px;
-	height: 200px !
-  }
+  
