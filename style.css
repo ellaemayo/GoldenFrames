@@ -73,7 +73,7 @@ body {
 	color: rgb(255, 232, 156);
 }
 h1{
-	text-align: center;
+	text-align: center !important;
 	color:rgb(238, 217, 162);
 	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -177,5 +177,11 @@ main{
   .navbar-scrolled {
 	background-color: #ffede7;
   }
+.rounded-circle {
+	height: 300px;
+	width:500px;
+}
 
-  
+
+
+
